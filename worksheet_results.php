@@ -35,8 +35,7 @@ whattodo
     <!-- Save results confirmation -->
     <div id="dialog-confirm" title="Save results ?">
         <p>
-            The worksheet results will be saved and you won't be allowed to reenter them again. <br/><br/>
-            Do you want to save the worksheet results for sure ?
+            dfasdfasd ck ck ck ckck ckckkc the worksheet results for sure ?
         </p>
     </div>
 <?= form_close() ?>
