@@ -18,7 +18,7 @@
 
 <?= form_open($urlFormSubmit, array('id' => 'formWorksheetResults')) ?>
     <fieldset class="no-margin">
-        <legend>Worksheet Results</legend>
+        <!-- <legend>Worksheet Results</legend>-->
 
         <?= $results_table ?>
     </fieldset>

@@ -2,7 +2,7 @@
 <div id="centerMain">
             <?= form_open('ClientParent/generateworksheets', array('id' => 'formGenerateWorksheets')) ?>
                 <fieldset class="icon-presentation-categories no-margin">
-                    <legend>Manage Worksheets</legend>
+                   <!-- <legend>Manage Worksheets</legend>-->
                     
                     <div class="formRow">
                         <label for="inputPresentationCategory">Student Name</label>
