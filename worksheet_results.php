@@ -1,4 +1,4 @@
-karuppiah
+subbu
 
 <?php
     $urlFormSubmit = 'ClientParent/saveworksheetresults/' . $student_id . '/' . $subject_id . '/' . $worksheet_date;
@@ -20,8 +20,8 @@ karuppiah
 
 <?= form_open($urlFormSubmit, array('id' => 'formWorksheetResults')) ?>
     <fieldset class="no-margin">
-        <legend>Worksheet Results</legend>
-
+        <!-- <legend>Worksheet Results</legend>-->
+whattodo
         <?= $results_table ?>
     </fieldset>
 
