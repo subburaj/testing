@@ -6,7 +6,7 @@
                     
                     <div class="formRow">
                         <label for="inputPresentationCategory">Student Name</label>
-                        <?= $this->form_field_generator->getInputFormField('inputPresentationCategory', $value = 'Should hjgfagj') ?>
+                        <?= $this->form_field_generator->getInputFormField('inputPresentationCategory', $value = 'Should hjgfagjfsdafsafsa') ?>
                     </div>
 
                     <div class="formRow">
